@@ -1,0 +1,23 @@
+{
+  "alertDaysWindow": 7,
+  "owners": [],
+  "categoryLabels": {
+    "report": "報告書",
+    "verification": "驗證",
+    "assessment": "評鑑",
+    "award": "獎項"
+  },
+  "statusLabels": {
+    "not_started": "未開始",
+    "in_progress": "進行中",
+    "done": "完成",
+    "blocked": "待解決",
+    "cancelled": "取消"
+  },
+  "projectStatusLabels": {
+    "not_started": "未開始",
+    "in_progress": "進行中",
+    "on_hold": "暫停",
+    "completed": "已完成"
+  }
+}

@@ -1,0 +1,192 @@
+[
+  {
+    "id": "Y26-RPT-ESG",
+    "name": "Y26 Report｜2025 ESG",
+    "year": 2026,
+    "category": "report",
+    "status": "in_progress",
+    "tasks": [
+      { "id": "t1",  "seq": 1,  "name": "Y26 Report_ 2025 ESG（專案啟動）", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t2",  "seq": 2,  "name": "利害關係人成果", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t3",  "seq": 3,  "name": "重大性分析成果", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t4",  "seq": 4,  "name": "人權盡職調查成果", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t5",  "seq": 5,  "name": "TCFD 分析成果", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t6",  "seq": 6,  "name": "跨部門資料蒐集", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t7",  "seq": 7,  "name": "美編封面定稿", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t8",  "seq": 8,  "name": "美編章節頁定稿", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t9",  "seq": 9,  "name": "文字＿中文＿初次 Review", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t10", "seq": 10, "name": "文字＿中文＿Final", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t11", "seq": 11, "name": "美編＿中文＿Review", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t12", "seq": 12, "name": "美編＿中文＿Final", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t13", "seq": 13, "name": "確信日", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t14", "seq": 14, "name": "經委會", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t15", "seq": 15, "name": "文字＿英文＿初次 Review", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t16", "seq": 16, "name": "文字＿英文＿Final", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t17", "seq": 17, "name": "美編＿英文＿Review", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t18", "seq": 18, "name": "美編＿英文＿Final", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t19", "seq": 19, "name": "官網＿中文＿Review", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t20", "seq": 20, "name": "官網＿英文＿Review", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t21", "seq": 21, "name": "官網＿中文＿Go Live", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t22", "seq": 22, "name": "官網＿英文＿Go Live", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t23", "seq": 23, "name": "MOPS 申報暨上傳作業", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t24", "seq": 24, "name": "讀書會 / 教育訓練 / 內部宣傳", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t25", "seq": 25, "name": "團隊內 Closure", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" }
+    ]
+  },
+  {
+    "id": "Y26-RPT-CSR",
+    "name": "Y26 Report｜2025 Comprehensive Standard Report",
+    "year": 2026,
+    "category": "report",
+    "status": "in_progress",
+    "tasks": [
+      { "id": "t1", "seq": 1,  "name": "Y26 Report_ 2025 CSR（專案啟動）", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t2", "seq": 2,  "name": "文字＿中文＿初次 Review", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t3", "seq": 3,  "name": "文字＿中文＿Final", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t4", "seq": 4,  "name": "美編＿中文＿Review", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t5", "seq": 5,  "name": "美編＿中文＿Final", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t6", "seq": 6,  "name": "文字＿英文＿初次 Review", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t7", "seq": 7,  "name": "文字＿英文＿Final", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t8", "seq": 8,  "name": "美編＿英文＿Review", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t9", "seq": 9,  "name": "美編＿英文＿Final", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t10","seq": 10, "name": "官網＿中文＿Go Live", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t11","seq": 11, "name": "官網＿英文＿Go Live", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t12","seq": 12, "name": "團隊內 Closure", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" }
+    ]
+  },
+  {
+    "id": "Y26-VRF-EMS",
+    "name": "Y26 EMS Verification（TW）",
+    "year": 2026,
+    "category": "verification",
+    "status": "in_progress",
+    "tasks": [
+      { "id": "t1", "seq": 1,  "name": "專案啟動", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t2", "seq": 2,  "name": "開案", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t3", "seq": 3,  "name": "維運", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t4", "seq": 4,  "name": "辦法檢閲", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t5", "seq": 5,  "name": "辦法修訂", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t6", "seq": 6,  "name": "法規", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t7", "seq": 7,  "name": "部門工作事項確認", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t8", "seq": 8,  "name": "內部稽核", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t9", "seq": 9,  "name": "管理審查會議", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t10","seq": 10, "name": "外部稽核", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t11","seq": 11, "name": "Closing", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" }
+    ]
+  },
+  {
+    "id": "Y26-VRF-GHG",
+    "name": "Y26 GHG Verification（TW）",
+    "year": 2026,
+    "category": "verification",
+    "status": "in_progress",
+    "tasks": [
+      { "id": "t1", "seq": 1,  "name": "專案啟動", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t2", "seq": 2,  "name": "跨部門 Kickoff", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t3", "seq": 3,  "name": "資料蒐集", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t4", "seq": 4,  "name": "數據計算", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t5", "seq": 5,  "name": "清冊＋報告書處理", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t6", "seq": 6,  "name": "內部稽核", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t7", "seq": 7,  "name": "書審資料提供", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t8", "seq": 8,  "name": "外部稽核查驗證作業 1", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t9", "seq": 9,  "name": "外部稽核查驗證作業 2（高雄／臺中）", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t10","seq": 10, "name": "外部稽核查驗證作業 2（三重）", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t11","seq": 11, "name": "團隊內 Closure", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" }
+    ]
+  },
+  {
+    "id": "Y26-ASS-TWSE",
+    "name": "Y26 Assessment｜TWSE ESG",
+    "year": 2026,
+    "category": "assessment",
+    "status": "in_progress",
+    "tasks": [
+      { "id": "t1", "seq": 1,  "name": "專案啟動", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t2", "seq": 2,  "name": "團隊內 Kickoff", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t3", "seq": 3,  "name": "參獎報名（資料更新／付款）", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t4", "seq": 4,  "name": "撰寫", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t5", "seq": 5,  "name": "初次 Review", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t6", "seq": 6,  "name": "二次 Review", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t7", "seq": 7,  "name": "網站資料更新", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t8", "seq": 8,  "name": "參獎內容提交", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t9", "seq": 9,  "name": "內部結案", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t10","seq": 10, "name": "外部結案", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" }
+    ]
+  },
+  {
+    "id": "Y26-ASS-CSA",
+    "name": "Y26 Assessment｜S&P CSA",
+    "year": 2026,
+    "category": "assessment",
+    "status": "in_progress",
+    "tasks": [
+      { "id": "t1", "seq": 1, "name": "專案啟動", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t2", "seq": 2, "name": "團隊內 Kickoff", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t3", "seq": 3, "name": "參獎報名（資料更新／付款）", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t4", "seq": 4, "name": "撰寫", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t5", "seq": 5, "name": "初次 Review", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t6", "seq": 6, "name": "二次 Review", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t7", "seq": 7, "name": "參獎內容提交", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t8", "seq": 8, "name": "獎項 PR／頒獎典禮安排", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t9", "seq": 9, "name": "內部結案", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" }
+    ]
+  },
+  {
+    "id": "Y26-ASS-CDP",
+    "name": "Y26 Assessment｜CDP",
+    "year": 2026,
+    "category": "assessment",
+    "status": "in_progress",
+    "tasks": [
+      { "id": "t1", "seq": 1, "name": "專案啟動", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t2", "seq": 2, "name": "獎項填寫期間", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t3", "seq": 3, "name": "團隊內 Kickoff", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t4", "seq": 4, "name": "參獎報名（資料更新／付款）", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t5", "seq": 5, "name": "撰寫", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t6", "seq": 6, "name": "初次 Review", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t7", "seq": 7, "name": "二次 Review", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t8", "seq": 8, "name": "參獎內容提交", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t9", "seq": 9, "name": "內部結案", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" }
+    ]
+  },
+  {
+    "id": "Y26-ASS-ECO",
+    "name": "Y26 Assessment｜EcoVadis",
+    "year": 2026,
+    "category": "assessment",
+    "status": "in_progress",
+    "tasks": [
+      { "id": "t1",  "seq": 1,  "name": "專案啟動", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t2",  "seq": 2,  "name": "獎項填寫期間", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t3",  "seq": 3,  "name": "Assessment", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t4",  "seq": 4,  "name": "團隊內 Kickoff", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t5",  "seq": 5,  "name": "帳號作業（延期／請款）", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t6",  "seq": 6,  "name": "問卷填寫", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t7",  "seq": 7,  "name": "初次 Review", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t8",  "seq": 8,  "name": "文件申請作業", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t9",  "seq": 9,  "name": "二次 Review", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t10", "seq": 10, "name": "提交", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t11", "seq": 11, "name": "異議申復作業", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t12", "seq": 12, "name": "成果分數與市場調查", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t13", "seq": 13, "name": "團隊內 Closure", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" }
+    ]
+  },
+  {
+    "id": "Y26-AWD-TCSA",
+    "name": "Y26 Award｜TCSA Series",
+    "year": 2026,
+    "category": "award",
+    "status": "in_progress",
+    "tasks": [
+      { "id": "t1", "seq": 1, "name": "專案啟動", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t2", "seq": 2, "name": "團隊內 Kickoff", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t3", "seq": 3, "name": "參獎報名（資料更新／付款）", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t4", "seq": 4, "name": "撰寫", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t5", "seq": 5, "name": "初次 Review", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t6", "seq": 6, "name": "二次 Review", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t7", "seq": 7, "name": "參獎內容提交", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t8", "seq": 8, "name": "獎項 PR／頒獎典禮安排", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" },
+      { "id": "t9", "seq": 9, "name": "內部結案", "owner": "", "status": "not_started", "forecast_start": "", "forecast_deliver": "", "forecast_end": "", "actual_start": "", "actual_deliver": "", "actual_end": "", "cr_start": "", "cr_deliver": "", "cr_end": "", "cr_note": "", "memo": "" }
+    ]
+  }
+]
